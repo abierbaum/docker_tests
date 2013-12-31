@@ -1,0 +1,6 @@
+FROM quay.io/abierbaum/tag_test:child1
+
+RUN apt-get install -y tree
+
+
+
